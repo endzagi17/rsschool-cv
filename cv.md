@@ -8,7 +8,7 @@
     </head>
 
     <body>
-        <hr>
+        <hr><hr>
             <h1><em>Amanov Rus<em></h1>
             <p></p>
             <div class="header__top">
