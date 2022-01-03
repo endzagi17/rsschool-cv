@@ -34,7 +34,7 @@
                     <li><a href="#"></a>js</li>
                     <li><a href="#"></a>react</li>
                 </ul>
-                <hr>
+                <hr><hr>
     </body>
 
     </html>
