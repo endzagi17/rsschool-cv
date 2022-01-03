@@ -1,0 +1,35 @@
+body {
+    background-color: #283be6;
+}
+
+h1 {
+    color: #ffc222;
+    font-family: 'Comforter', cursive;
+    font-size: 300%;
+    border: 5px solid rgb(230, 31, 31);
+    padding: 50px;
+}
+
+h2 {
+    color: rgb(99, 33, 33);
+    font-family: 'Comforter', cursive;
+    font-size: 200%;
+    border: 5px solid rgb(233, 218, 10);
+    padding: 50px;
+}
+
+div {
+    color: rgb(119, 187, 233);
+    font-family: 'Comforter', cursive;
+    font-size: 150%;
+    border: 5px solid rgb(233, 218, 10);
+    padding: 30px;
+}
+
+ul {
+    color: red;
+    font-family: 'Comforter', cursive;
+    font-size: 200%;
+    border: 5px solid rgb(35, 243, 226);
+    padding: 50px;
+}
